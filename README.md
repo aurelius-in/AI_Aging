@@ -1,4 +1,4 @@
-# Project Proposal: Developing AI for Life Extension
+# Developing AI for Life Extension
 
 ## Introduction
 In recent years, there has been a growing interest in developing artificial intelligence (AI) to extend human life. One approach is to identify the genes responsible for aging and develop interventions that either retard or stimulate those genes depending on their role in aging. 
